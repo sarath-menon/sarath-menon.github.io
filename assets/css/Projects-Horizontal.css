@@ -72,11 +72,6 @@
   color: #000;
 }
 
-.posts_page h1 {
-  font-size: 30pt;
-  margin-bottom: 40pt;
-}
-
 .posts_page .text-left {
   margin: 10pt 150pt 0 150pt;
   font-family: Helvetica;
@@ -84,11 +79,12 @@
 }
 
 p {
-  margin: 10pt 150pt 40pt 150pt;
   font-size: 16px;
   font-family: Helvetica;
   font-weight: lighter;
   text-align: justify;
+  margin-right: 20%;
+  margin-left: 20%;
 }
 
 .posts_page img {
