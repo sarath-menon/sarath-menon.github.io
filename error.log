@@ -22,3 +22,23 @@ To https://github.com/sarath-menon/sarath-menon.github.io.git
    e50a1b1..247d7e6  master -> master
 
 
+----------
+
+Thu Aug 20 2020 15:13:50 GMT+0530 (India Standard Time)
+
+To https://github.com/sarath-menon/sarath-menon.github.io.git
+ ! [rejected]        master -> master
+
+----------
+
+Thu Aug 20 2020 15:13:50 GMT+0530 (India Standard Time)
+
+ (fetch first)
+error: failed to push some refs to 'https://github.com/sarath-menon/sarath-menon.github.io.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
