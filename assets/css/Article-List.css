@@ -96,3 +96,9 @@ div {
   margin-right: auto;
 }
 
+.h3, h3 {
+  text-align: left;
+  margin-left: 20%;
+  font-size: 30px;
+}
+
