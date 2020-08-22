@@ -102,3 +102,7 @@ div {
   font-size: 30px;
 }
 
+.img-fluid {
+  padding-top: 0;
+}
+
