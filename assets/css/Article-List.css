@@ -109,15 +109,18 @@ div {
 #car_intro {
   width: 100%;
   height: 100vh;
-  background-image: url("../../assets/img/e20_scaled_edited.jpeg");
-  background-position: top;
-  background-size: cover;
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-image: url("../../assets/img/e20_scaled_edited.jpeg");
 }
 
 @media (max-width: 500px) {
   #car_intro {
     background-image: url("../../assets/img/e20_vertical.jpg");
   }
+}
+
+.d-flex.d-lg-flex.d-xl-flex.justify-content-lg-center.justify-content-xl-center {
 }
 
