@@ -121,19 +121,13 @@ div {
   }
 }
 
-.video-container {
-  overflow: hidden;
+.videoWrapper {
   position: relative;
-  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
 }
 
-.video-container::after {
-  padding-top: 56.25%;
-  display: block;
-  content: '';
-}
-
-.video-container iframe {
+.videoWrapper iframe {
   position: absolute;
   top: 0;
   left: 0;
