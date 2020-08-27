@@ -184,3 +184,20 @@ To https://github.com/sarath-menon/sarath-menon.github.io.git
    ac38b20..7639e49  master -> master
 
 
+----------
+
+Thu Aug 27 2020 21:01:15 GMT+0530 (India Standard Time)
+
+To https://github.com/sarath-menon/sarath-menon.github.io.git
+   7639e49..cf28b8c  master -> master
+
+
+----------
+
+Thu Aug 27 2020 21:01:15 GMT+0530 (India Standard Time)
+
+To https://github.com/sarath-menon/sarath-menon.github.io.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at cf28b8cd70e96c6e76af2fafc3dda333db6063f9 but expected 7639e49e0e13f0f16c1974dfabca5401c27a8d89)
+error: failed to push some refs to 'https://github.com/sarath-menon/sarath-menon.github.io.git'
+
+
