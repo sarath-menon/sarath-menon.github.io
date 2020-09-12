@@ -1,4 +1,4 @@
-.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark.justify-content-between {
+/* .navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark.justify-content-between {
   opacity: 1.0;
 }
 
@@ -6,19 +6,12 @@
   color: rgb(255,255,255);
 }
 
-.fa.fa-github {
-  font-size: 25px;
-  line-height: 0;
-}
 
-.fa.fa-linkedin {
-  font-size: 15pt;
-}
 
 .icon.ion-android-mail {
   font-size: 25px;
   line-height: 0;
-}
+} */
 
 .home, h1 {
   text-align: center;

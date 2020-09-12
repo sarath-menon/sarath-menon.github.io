@@ -1,6 +1,7 @@
 .navbar--apple .nav-link {
-  color: #ffffff !important;
-  font-size: 13px;
+  color: #f5f5f7!important;
+  font-size: 14px;
+  font-weight: 200;
 }
 
 .navbar--apple .apple-logo {
@@ -27,15 +28,15 @@
 
 @media (max-width: 576px) {
   .navbar--apple #menu {
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
   }
 }
 
 @media (max-width: 576px) {
   .navbar--apple #menu li a {
     font-size: 17px;
-    border-bottom: 1px solid rgba(255,255,255,0.1);
+    border-bottom: 1px solid rgba(255,255,255,0.9);
   }
 }
 
@@ -44,9 +45,9 @@
 }
 
 .navbar--apple::before {
-  background: rgba(0,0,0,0.8);
+  background: rgba(0,0,0,0.75);
   transition: height 0.2s ease-in;
-  height: 50px;
+  height: 44px;
   position: fixed;
   top: 0;
   bottom: 0;
@@ -58,11 +59,11 @@
 
 @media (min-width: 768px) {
   .navbar--apple::before {
-    height: 50px !important;
+    height: 44px !important;
   }
 }
 
 .navbar--opened .navbar--apple::before {
-  background: rgba(0,0,0,0.93);
+  background: rgba(0,0,0,0.7);
 }
 
