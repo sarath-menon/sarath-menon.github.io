@@ -140,5 +140,18 @@ div {
 
 a {
   font-size: 17px;
+  /*padding-left: 10px;*/
+}
+
+.icon.ion-ios-compose-outline {
+  padding-right: 5px;
+}
+
+.fa.fa-code {
+  padding-right: 5px;
+}
+
+.fa.fa-android {
+  padding-right: 5px;
 }
 
