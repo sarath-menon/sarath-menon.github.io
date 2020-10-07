@@ -6,6 +6,7 @@
 .article-list p {
   color: #7d8285;
   text-align: left;
+  /*padding-top: 15px;*/
 }
 
 .article-list h2 {
